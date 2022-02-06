@@ -29,7 +29,7 @@
 </body>
 <footer>
   <div class="attribution"> 
-    <p>Copyright 2021 Ⓒ <span>Waheed's Template</span>. All Rights Reserved.</p> 
+    <p>Copyright 2022 Ⓒ <span>Waheed's Template</span>. All Rights Reserved.</p> 
   </div>
 </footer>
 </html>
