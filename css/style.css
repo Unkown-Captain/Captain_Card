@@ -6,7 +6,7 @@ body {
   font-family: Montserrat, sans-serif;
   background: #28223f;
 }
-a {
+* > a {
   text-decoration: none;
   color: inherit;
 }
